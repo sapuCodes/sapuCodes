@@ -129,7 +129,7 @@ Hi! I'm **L.G. Sapumal Prasanna**, a Software Engineering undergraduate at the U
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sapuCodes&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sapuCodes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
 </div>
 
