@@ -16,13 +16,11 @@
 
 <!-- Header Social Links: Sleek Minimalist Icons -->
 <!-- Header Social Links: Independent Skillicons -->
-<a href="https://linkedin.com/in/sapumalprasanna" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
 
-<a href="https://instagram.com/s_a_p_u_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-</a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/sapumalprasanna/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/s_a_p_u_">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
 </div>
 <!-- END: HEADER BANNER & INTRO SECTION -->
