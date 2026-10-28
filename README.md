@@ -12,15 +12,12 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=sapuCodes&color=a371f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br/><br/>
 
 <!-- Header Social Links: Sleek Minimalist Icons -->
-<!-- Header Social Links: Independent Skillicons -->
 
-<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/sapumalprasanna/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/s_a_p_u_">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+
+
+
 
 </div>
 <!-- END: HEADER BANNER & INTRO SECTION -->
@@ -190,6 +187,13 @@ Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the Univer
 💬 Feel free to explore my repositories, connect with me, or collaborate on interesting projects!
 
 **Thanks for visiting my profile! ⭐**
+
+<!-- Header Social Links: Independent Skillicons -->
+
+<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/sapumalprasanna/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/s_a_p_u_">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
 </div>
 
