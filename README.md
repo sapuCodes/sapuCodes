@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=sapuCodes&color=a371f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sapuCodes&color=a371f7&style=flat-square&label=PROFILE+VISITS  " alt="Profile Views"/>
 
 
 <!-- Header Social Links: Sleek Minimalist Icons -->
