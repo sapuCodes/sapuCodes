@@ -204,3 +204,11 @@ Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the Univer
 
 </div>
 <!-- END: CONNECT WITH ME & FOOTER SECTION -->
+#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+</picture>
+
+##
