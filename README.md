@@ -64,7 +64,7 @@ Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the Univer
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress" alt="Web Development Technologies"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,wordpress" alt="Web Development Technologies"/>
 </p>
 
 <!-- Mobile & App Dev Stack -->
