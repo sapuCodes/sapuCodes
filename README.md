@@ -188,6 +188,9 @@ Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the Univer
 
 <div align="center">
 
+<!-- 200 OK Banner -->
+<img src="./200OK.svg" alt="200 OK - I'm the one you're looking for" width="650"/>
+
 <br/><br/>
 
 <!-- Closing Note -->
@@ -211,4 +214,3 @@ Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the Univer
 
 </div>
 <!-- END: CONNECT WITH ME & FOOTER SECTION -->
-
