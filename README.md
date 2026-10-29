@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=sapuCodes&color=B39A6A&style=flat-square&label=PROFILE+VISITS  " alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sapuCodes&color=52382C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits"/>
 
 
 <!-- Header Social Links: Sleek Minimalist Icons -->
