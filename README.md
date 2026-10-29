@@ -12,8 +12,6 @@
 <a href="#about-me">
   <img src="./200OKsigned.svg" alt="200 OK - I'm the one you're looking for" width="650"/>
 </a>
-<br/>
-<br/>
 
 
 <br/>
