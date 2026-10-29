@@ -153,8 +153,8 @@ Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the Univer
 
 <div align="center">
 
-<!-- General GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapuCodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+<!-- General GitHub Stats Card 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapuCodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/> -->
 
 <!-- Most Used Languages Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapuCodes&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
