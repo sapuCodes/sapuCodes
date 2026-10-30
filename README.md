@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5A3F33&customColorList=3E2A22,5A3F33,B59C6E&height=180&section=header&text=Hello,%20World!%20%F0%9F%91%8B&fontSize=36&fontColor=F0D6A7&animation=twinkling&fontAlignY=38" width="100%"/>
 
 <!-- Animated Typing Subtitles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B39A6A&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Flutter+%26+Mobile+App+Developer+%F0%9F%93%B1;Web+Development+Enthusiast+%F0%9F%8C%90;Cloud+%26+Linux+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B39A6A&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Flutter+%26+Mobile+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Cloud+%26+VPS+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
 
 
 <!-- 200 OK Banner -->
