@@ -34,7 +34,7 @@
 <!-- START: ABOUT ME SECTION -->
 <h2 id="about-me">👨‍💻 About Me</h2>
 
-Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the University of Plymouth, passionate about building practical software solutions and exploring new technologies.
+Hi! I'm **Sapumal**, a Software Engineering undergraduate at the University of Plymouth - UK, passionate about building practical software solutions and exploring new technologies.
 
 <!-- Quick Bio Bullets -->
 - 🎓 BSc (Hons) in Software Engineering (Soon To Be Graduated).
