@@ -40,7 +40,7 @@ Hi! I'm **Sapumal**, a Software Engineering undergraduate at the University of P
 - 🎓 BSc (Hons) in Software Engineering (Soon To Be Graduated).
 - 💻 Interested in software engineering, web development, and mobile application development (among many other things).
 - 📱 Building Flutter applications using Dart.
-- 🚗 Developing **SmartRide**, an intelligent vehicle companion for fuel, trips, and driving efficiency.
+- 🚗 Developing <a href="https://github.com/sapuCodes/SmartRide"> **SmartRide**</a>, an intelligent vehicle companion for fuel, trips, and driving efficiency.
 - ☁️ Experienced in working with VPS's environments and cloud infrastructure.
 - 🐧 Interested in networking, automation, and DevOps.
 - 🌱 Continuously learning, building projects, and exploring open-source contributions.
