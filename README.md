@@ -37,13 +37,12 @@
 Hi! I'm **Sapumal Prasanna**, a Software Engineering undergraduate at the University of Plymouth, passionate about building practical software solutions and exploring new technologies.
 
 <!-- Quick Bio Bullets -->
-- 🎓 Studying for a BSc (Hons) in Software Engineering.
-- 💻 Interested in software engineering, web development, and mobile application development.
+- 🎓 BSc (Hons) in Software Engineering (Soon To Be Graduated).
+- 💻 Interested in software engineering, web development, and mobile application development (among many other things).
 - 📱 Building Flutter applications using Dart.
 - 🚗 Developing **SmartRide**, an intelligent vehicle companion for fuel, trips, and driving efficiency.
-- ☁️ Experienced in working with Linux VPS environments and cloud infrastructure.
-- 🐧 Interested in Linux administration, networking, automation, and DevOps.
-- 🎨 Exploring UI/UX design and application prototyping with Figma.
+- ☁️ Experienced in working with VPS's environments and cloud infrastructure.
+- 🐧 Interested in networking, automation, and DevOps.
 - 🌱 Continuously learning, building projects, and exploring open-source contributions.
 
 <!-- Personal Motto Quote -->
