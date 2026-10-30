@@ -105,48 +105,6 @@ Hi! I'm **Sapumal**, a Software Engineering undergraduate at the University of P
 
 ---
 
-<!-- START: FEATURED PROJECTS SECTION -->
-## 🚀 Featured Projects
-
-<table>
-  <!-- Row 1: SmartRide & Arcadia -->
-  <tr>
-    <td width="50%" valign="top">
-      <!-- Project 1: SmartRide -->
-      <h3>🚗 SmartRide</h3>
-      <p>An intelligent vehicle companion designed to help users manage fuel consumption, trips, and driving efficiency.</p>
-      <p><strong>Technologies:</strong> Flutter, Dart, Google Maps SDK</p>
-      <a href="https://github.com/sapuCodes/SmartRide">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Project 2: Arcadia -->
-      <h3>📱 Arcadia</h3>
-      <p>An application development project showcasing my work in software development.</p>
-      <p><strong>Technologies:</strong> See the repository for the project's technology stack.</p>
-      <a href="https://github.com/sapuCodes/Arcadia">View Repository →</a>
-    </td>
-  </tr>
-  <!-- Row 2: Noise Pollution Monitoring & Open Source -->
-  <tr>
-    <td width="50%" valign="top">
-      <!-- Project 3: Noise Pollution Monitoring System -->
-      <h3>🔊 Noise Pollution Monitoring System</h3>
-      <p>An Arduino-based project for real-time noise pollution monitoring.</p>
-      <p><strong>Technologies:</strong> Arduino, embedded systems</p>
-      <a href="https://github.com/sapuCodes/Noise-Pollution-Monitoring-System---Arduino">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Project 4: Open Source & Learning -->
-      <h3>🌱 Open Source & Continuous Learning</h3>
-      <p>Exploring open-source projects, improving my programming skills, and learning new development technologies.</p>
-      <a href="https://github.com/sapuCodes?tab=repositories">Explore My Repositories →</a>
-    </td>
-  </tr>
-</table>
-<!-- END: FEATURED PROJECTS SECTION -->
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapuCodes/sapuCodes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapuCodes/sapuCodes/output/pacman-contribution-graph.svg">
